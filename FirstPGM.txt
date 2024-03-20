@@ -1,0 +1,16 @@
+Input:
+[{ "firstName": "Mule",
+        "LastName": "Soft",
+        "orderNumber": "123",
+        "employeeTech": "Java"
+    }, 
+{"firstName": "DSIT",
+        "LastName": "Hub",
+        "orderNumber": "456",
+        "employeeTech": ".net"
+    },{
+        "firstName": "Mule",
+        "LastName": "Soft",
+        "orderNumber": "123",
+        "employeeTech": "Blackchain"
+    }]
